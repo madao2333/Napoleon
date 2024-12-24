@@ -1,6 +1,6 @@
 # Napoleon
 天津大学2022级软件工程可视化大作业
 # Install dependencies
-pnpm install
+npm VisNapoleon/install
 # Start the dev server
-pnpm start
+pnpm VisNapoleon/start
